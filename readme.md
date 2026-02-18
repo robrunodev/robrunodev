@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 # Hi there, I'm Rodrigo Souza! 👋
 
 ### Senior Software Engineer | Bridging the gap between Frontend Architecture & Data Infrastructure
@@ -22,6 +24,18 @@ My approach combines expertise in the **React ecosystem** with a strong understa
 | React / Next.js   | AWS S3 / SageMaker | Cypress / Jest            |
 | TypeScript        | Airflow DAGs       | Vitest                    |
 | Tailwind / MFE    | Node.js / Prisma   | LogRocket (Observability) |
+
+<i class="devicon-javascript-plain colored" style="font-size: 40px; margin-right: 8px;"></i>
+<i class="devicon-react-original colored" style="font-size: 40px; margin-right: 8px;"></i>
+<i class="devicon-nextjs-original-wordmark colored" style="font-size: 40px; margin-right: 8px;"></i>
+<i class="devicon-typescript-plain colored" style="font-size: 40px; margin-right: 8px;"></i>
+<i class="devicon-vitejs-plain colored" style="font-size: 40px; margin-right: 8px;"></i>
+<i class="devicon-nodejs-plain-wordmark colored" style="font-size: 40px; margin-right: 8px;"></i>
+<i class="devicon-amazonwebservices-plain-wordmark colored" style="font-size: 40px; margin-right: 8px;"></i>
+<i class="devicon-apacheairflow-plain colored" style="font-size: 40px; margin-right: 8px;"></i>
+<i class="devicon-prisma-original-wordmark colored" style="font-size: 40px; margin-right: 8px;"></i>
+<i class="devicon-jest-plain colored" style="font-size: 40px; margin-right: 8px;"></i>
+<i class="devicon-vitest-plain colored" style="font-size: 40px; margin-right: 8px;"></i>
 
 ---
 
