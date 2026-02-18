@@ -25,14 +25,6 @@ My approach combines expertise in the **React ecosystem** with a strong understa
 
 ---
 
-## 📈 Impact & Values
-
-- **Performance First:** From optimizing Webpack/Vite to reducing bundle sizes.
-- **Stability:** Managing production incidents and creating proactive monitoring triggers.
-- **Agile Mindset:** Deeply involved in the full product cycle, from conception with Designers to final delivery with POs.
-
----
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodbruno)
