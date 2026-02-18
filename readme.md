@@ -1,6 +1,4 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-# Hi there, I'm Rodrigo Souza! 👋
+# Hi there, I'm Rodrigo Bruno! 👋
 
 ### Senior Software Engineer | Bridging the gap between Frontend Architecture & Data Infrastructure
 
@@ -25,17 +23,19 @@ My approach combines expertise in the **React ecosystem** with a strong understa
 | TypeScript        | Airflow DAGs       | Vitest                    |
 | Tailwind / MFE    | Node.js / Prisma   | LogRocket (Observability) |
 
-<i class="devicon-javascript-plain colored" style="font-size: 40px; margin-right: 8px;"></i>
-<i class="devicon-react-original colored" style="font-size: 40px; margin-right: 8px;"></i>
-<i class="devicon-nextjs-original-wordmark colored" style="font-size: 40px; margin-right: 8px;"></i>
-<i class="devicon-typescript-plain colored" style="font-size: 40px; margin-right: 8px;"></i>
-<i class="devicon-vitejs-plain colored" style="font-size: 40px; margin-right: 8px;"></i>
-<i class="devicon-nodejs-plain-wordmark colored" style="font-size: 40px; margin-right: 8px;"></i>
-<i class="devicon-amazonwebservices-plain-wordmark colored" style="font-size: 40px; margin-right: 8px;"></i>
-<i class="devicon-apacheairflow-plain colored" style="font-size: 40px; margin-right: 8px;"></i>
-<i class="devicon-prisma-original-wordmark colored" style="font-size: 40px; margin-right: 8px;"></i>
-<i class="devicon-jest-plain colored" style="font-size: 40px; margin-right: 8px;"></i>
-<i class="devicon-vitest-plain colored" style="font-size: 40px; margin-right: 8px;"></i>
+<div style="display: inline_block"><br>
+<img height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img  height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />         
+<img height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+<img height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+<img height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postg
+resql/postgresql-original-wordmark.svg" />
+</div>
 
 ---
 
